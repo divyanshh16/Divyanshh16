@@ -1,5 +1,3 @@
-## Hello, I'm Divyansh!
+## Hello
 
-
-
-Nothing to type, Maybe its typo mistake?
+Nothing to type, typo mistake?
